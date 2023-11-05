@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://augustovillamediana.github.io/blog/'
+languageCode = 'es'
 title = 'Navegando en la Tecnología'
 theme = 'lugo'
