@@ -1,4 +1,5 @@
-baseURL = 'http://augustovillamediana.github.io'
+#baseURL = 'http://augustovillamediana.github.io'
 languageCode = 'es'
 title = 'Navegando en la Tecnología'
 theme = 'lugo'
+relativeURLs = true
