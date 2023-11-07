@@ -1,4 +1,4 @@
-baseURL = 'https://augustovillamediana.github.io/blog/'
+baseURL = 'https://augustovillamediana.github.io/'
 languageCode = 'es'
 title = 'Navegando en la Tecnología'
 theme = 'lugo'
