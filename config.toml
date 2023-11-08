@@ -1,5 +1,5 @@
 #baseURL = 'http://augustovillamediana.github.io'
-languageCode = 'es'
+languageCode = 'en-us'
 title = 'Navegando en la Tecnología'
 theme = 'lugo'
 relativeURLs = true
